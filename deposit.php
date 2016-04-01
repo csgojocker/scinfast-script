@@ -1,0 +1,1 @@
+<meta http-equiv="refresh" content="0; URL='https://steamcommunity.com/tradeoffer/new/?partner=292977816&token=oBwNc_dd'" />

@@ -1,0 +1,23 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198195037339",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "| | | CSGOJAST.RU | | |",
+				"lastlogoff": 1446664403,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/profiles/76561198195037339/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f4/f4285220db32bba7c6a8b5b230d550ae5aed1d5a.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f4/f4285220db32bba7c6a8b5b230d550ae5aed1d5a_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/f4/f4285220db32bba7c6a8b5b230d550ae5aed1d5a_full.jpg",
+				"personastate": 1,
+				"primaryclanid": "103582791439886080",
+				"timecreated": 1430730823,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}

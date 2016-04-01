@@ -1,0 +1,22 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198029588083",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "Killebro EZYCSGO.RU",
+				"lastlogoff": 1446452657,
+				"profileurl": "http://steamcommunity.com/profiles/76561198029588083/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28e2570d37704b245dd931b2a49288bbfeb45c6f.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28e2570d37704b245dd931b2a49288bbfeb45c6f_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/28/28e2570d37704b245dd931b2a49288bbfeb45c6f_full.jpg",
+				"personastate": 1,
+				"primaryclanid": "103582791438622658",
+				"timecreated": 1282889284,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}

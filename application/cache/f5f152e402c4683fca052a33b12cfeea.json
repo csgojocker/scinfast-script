@@ -1,0 +1,23 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198166149018",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "Trinity",
+				"lastlogoff": 1446668193,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/BuRnR111/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/08/08fac4c5048f692e8f1f208063a2a86d6de7347d.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/08/08fac4c5048f692e8f1f208063a2a86d6de7347d_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/08/08fac4c5048f692e8f1f208063a2a86d6de7347d_full.jpg",
+				"personastate": 1,
+				"primaryclanid": "103582791438833934",
+				"timecreated": 1417612684,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}

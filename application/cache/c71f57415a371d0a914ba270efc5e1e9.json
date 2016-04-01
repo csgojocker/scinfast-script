@@ -1,0 +1,24 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198134063224",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "ArNo",
+				"lastlogoff": 1446628893,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/12546798534568/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c2/c200e3fc7d49e41287559c78c499227358b35a4d.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c2/c200e3fc7d49e41287559c78c499227358b35a4d_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/c2/c200e3fc7d49e41287559c78c499227358b35a4d_full.jpg",
+				"personastate": 2,
+				"realname": "адель",
+				"primaryclanid": "103582791438833934",
+				"timecreated": 1398101256,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}

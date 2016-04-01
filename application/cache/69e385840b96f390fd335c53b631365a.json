@@ -1,0 +1,26 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198121368191",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "}{еisenberg",
+				"lastlogoff": 1446522704,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/ventormiha/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9c/9c70648462b30d9bcff5d7749b1b75899556c554.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9c/9c70648462b30d9bcff5d7749b1b75899556c554_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/9c/9c70648462b30d9bcff5d7749b1b75899556c554_full.jpg",
+				"personastate": 0,
+				"realname": "Ventor",
+				"primaryclanid": "103582791436067366",
+				"timecreated": 1388662952,
+				"personastateflags": 0,
+				"loccountrycode": "RU",
+				"locstatecode": "35"
+			}
+		]
+		
+	}
+}

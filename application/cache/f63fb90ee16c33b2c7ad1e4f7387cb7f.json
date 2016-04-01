@@ -1,0 +1,27 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198248391500",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "s1kn",
+				"lastlogoff": 1446497298,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/s1kn/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/59/592d50230656aee3e70d233026e8f25913a9913a.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/59/592d50230656aee3e70d233026e8f25913a9913a_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/59/592d50230656aee3e70d233026e8f25913a9913a_full.jpg",
+				"personastate": 1,
+				"realname": "Alexander",
+				"primaryclanid": "103582791439974254",
+				"timecreated": 1441301285,
+				"personastateflags": 0,
+				"loccountrycode": "RU",
+				"locstatecode": "78",
+				"loccityid": 43010
+			}
+		]
+		
+	}
+}

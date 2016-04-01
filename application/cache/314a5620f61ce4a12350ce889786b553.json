@@ -1,0 +1,25 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198195598415",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "Просто Успагойся",
+				"lastlogoff": 1446692300,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/id/Mr-krutoy12131/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/84a47e3140789f2afbc3365c3b9ebc39ee993b17.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/84a47e3140789f2afbc3365c3b9ebc39ee993b17_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/84/84a47e3140789f2afbc3365c3b9ebc39ee993b17_full.jpg",
+				"personastate": 1,
+				"realname": "Бахххххххх",
+				"primaryclanid": "103582791429521408",
+				"timecreated": 1431088526,
+				"personastateflags": 512,
+				"loccountrycode": "RU"
+			}
+		]
+		
+	}
+}

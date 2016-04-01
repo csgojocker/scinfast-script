@@ -1,0 +1,23 @@
+{
+	"response": {
+		"players": [
+			{
+				"steamid": "76561198213650015",
+				"communityvisibilitystate": 3,
+				"profilestate": 1,
+				"personaname": "AppleJack EZYCSGO.RU",
+				"lastlogoff": 1446481371,
+				"commentpermission": 1,
+				"profileurl": "http://steamcommunity.com/profiles/76561198213650015/",
+				"avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6b/6bee1465fc7ef7613c1ae0b6043f7e4f9691f186.jpg",
+				"avatarmedium": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6b/6bee1465fc7ef7613c1ae0b6043f7e4f9691f186_medium.jpg",
+				"avatarfull": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/6b/6bee1465fc7ef7613c1ae0b6043f7e4f9691f186_full.jpg",
+				"personastate": 2,
+				"primaryclanid": "103582791439377412",
+				"timecreated": 1440091865,
+				"personastateflags": 0
+			}
+		]
+		
+	}
+}
